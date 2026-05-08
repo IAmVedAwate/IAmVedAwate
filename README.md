@@ -48,4 +48,4 @@ graph TD
     F --> G[TensorFlow/CV]
     
     B --> H[React/React Native]
-    C --> I[Node.js/APIs]
+    C --> I[ASP.NET MVC/APIs]
